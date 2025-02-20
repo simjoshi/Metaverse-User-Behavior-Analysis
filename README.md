@@ -1,8 +1,11 @@
 # Metaverse_User_Behavior_Analysis
 
-**Business Objective:** Optimize virtual-world campaigns for Gen Z audiences.
+**Business Objective:** Optimize virtual-world campaigns for Gen Z audiences. 
+
 **Analytics:** Track avatars’ interactions using NLP and path analysis in Decentraland.
+
 **Impact:** Design immersive brand experiences (e.g., virtual pop-ups).
+
 **Tools:** Python (Metaverse APIs), Unity, Tableau.
 
 ## The Problem Statement and Objective
